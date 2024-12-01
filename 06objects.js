@@ -1,0 +1,1 @@
+/* This page is focused on objects in javascript */
